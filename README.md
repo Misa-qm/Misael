@@ -45,7 +45,7 @@ Funciones:
 
   </script>
 
-</head>
+
 
 
 
