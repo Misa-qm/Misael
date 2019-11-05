@@ -1,11 +1,7 @@
 # Misael 
 Funciones:
 
-<!DOCTYPE HTML>
 
-<html lang = "en">
-
-<head>
 
   
 
