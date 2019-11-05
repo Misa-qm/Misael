@@ -7,7 +7,7 @@ Funciones:
 
 <head>
 
-  <title>location.html</title>
+  
 
   <meta charset = "UTF-8" />
 
